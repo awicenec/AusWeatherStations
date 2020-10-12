@@ -1,7 +1,5 @@
-Australian Weather Stations Project
-====================================
-
 Exploring Australian weather stations.
+===================================
 
 This project is available on Binder:
 
