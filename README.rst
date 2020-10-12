@@ -1,5 +1,5 @@
-Math Class Project
-==================
+Australian Weather Stations Project
+===================================
 
 Exploring Australian weather stations.
 
